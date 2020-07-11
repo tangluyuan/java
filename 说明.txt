@@ -1,0 +1,7 @@
+建 F:\upload\web\WEB-INF\classes
+   F:\upload\web\WEB-INF\lib 修改加载后文件为 F:\upload\web\WEB-INF\classes
+   导包lib tomcat lib
+#上传
+http://localhost:8080/upload_war_exploded/upload.jsp
+#下载 点击下载
+http://localhost:8080/upload_war_exploded/listFileServlet
